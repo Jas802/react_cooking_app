@@ -1,13 +1,13 @@
 import React from 'react'
 
-export default function Recipe(props) {
+export default function Recipe(props) { //call all of props
     const {
         name,
         cookTime, 
         servings,
         instructions
-    } = props
-    return (
+    } = props //sets all props
+    return ( // renders Recipe component
         <div>
             <div>
                 <h3>{ name }</h3>
