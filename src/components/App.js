@@ -13,7 +13,7 @@ const sampleReciepes = [
     name: "Plain Chicken",
     servings: 3,
     cookTime: "1:45",
-    instructions: "1. Put salt on Chicken\n2. Put chicken in oven\n 3. Eat chicken",
+    instructions: "1. Put salt on Chicken\n2. Put chicken in oven\n3. Eat chicken",
     ingredients: [
       {
         id: 1,
