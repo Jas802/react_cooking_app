@@ -3,7 +3,7 @@
 @import 'recipe-list.css';
 @import 'ingredient-list.css';
 @import 'recipe.css';
-@import 'recipe-edit.css'
+@import 'recipe-edit.css';
 
 *, *::before, *::after {
     font-family: Gotham Rounded, sans-serif;
